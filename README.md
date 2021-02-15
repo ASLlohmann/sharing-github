@@ -23,7 +23,7 @@ with plt.style.context('bmh'):
 ```
 
 
-![png](output_0_0.png)
+![png](images/output_0_0.png)
 
 
 
