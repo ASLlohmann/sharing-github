@@ -62,7 +62,7 @@ with plt.style.context('bmh'):
 ```
 
 
-![png](output_2_0.png)
+![png](images/output_2_0.png)
 
 
 
@@ -106,7 +106,7 @@ with plt.style.context('bmh'):
 ```
 
 
-![png](output_4_0.png)
+![png](images/output_4_0.png)
 
 
 
@@ -130,5 +130,5 @@ with plt.style.context('bmh'):
 ```
 
 
-![png](output_5_0.png)
+![png](images/output_5_0.png)
 
