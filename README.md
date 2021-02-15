@@ -1,4 +1,4 @@
-# sharing-github
+# Global Inflation Monitor
 
 ```python
 import quandl
