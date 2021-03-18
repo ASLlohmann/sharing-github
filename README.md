@@ -1,3 +1,5 @@
+[[ Link text | page_title#header_title ]] 
+
 # Global Inflation Monitor
 
 ```python
