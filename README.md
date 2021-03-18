@@ -1,4 +1,4 @@
-[[ Link text | page_title#header_title ]] 
+[[ https://portalibre.fgv.br/estudos-e-pesquisas/indices-de-precos/igp | page_title#header_title ]] 
 
 # Global Inflation Monitor
 
